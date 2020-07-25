@@ -14,7 +14,17 @@ The aim is to see if the selected companies' stock returns see a dramatic drop (
 #### Average Abnormal Retrun (AAR): Average out across the cross-sectional panel, namely, across the companies.
 #### Cumulative Average Abnormal Retrun (CAAR): A cumulative sum of AAR.
 
-#### Result 1 AR.
+#### Result 1 AR
+![image](https://github.com/Seaaann/Event-Study/blob/master/images/AR.png)
+
+#### Result 2 AAR
+![image](https://github.com/Seaaann/Event-Study/blob/master/images/AAR.png)
+
+#### Result 3 CAR
+![image](https://github.com/Seaaann/Event-Study/blob/master/images/CAR.png)
+
+#### Result 4 CAAR
+![image](https://github.com/Seaaann/Event-Study/blob/master/images/CAAR.png)
 
 
 
