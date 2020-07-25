@@ -8,7 +8,13 @@ The aim is to see if the selected companies' stock returns see a dramatic drop (
 
 
 ## Abnormal Return, Cumulative Abnormal Return, Average Abnormal Retrun, Cumulative Average Abnormal Retrun. 
-#### Abnormal Return (AR): Defined as the return that excess the expected return. The most important 
+
+#### Abnormal Return (AR): Defined as the return that excess the expected return. The most important ingradient for the whole analysis.
+#### Cumulative Abnormal Return (CAR): A cumulative sum of AR.
+#### Average Abnormal Retrun (AAR): Average out across the cross-sectional panel, namely, across the companies.
+#### Cumulative Average Abnormal Retrun (CAAR): A cumulative sum of AAR.
+
+#### Result 1 AR.
 
 
 
