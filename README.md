@@ -8,7 +8,10 @@ The aim is to see if the selected companies' stock returns see a dramatic drop (
 
 
 ## Some statistic basics
-We need t-test to test the significance of abnormal return.
+We need t-statistic to test the significance of abnormal return (if it is significantly different from 0).
+$$
+t = \frac{abnormal return}{\frac{\simga}{\sqrt{n}}}
+$$
 
 
 
